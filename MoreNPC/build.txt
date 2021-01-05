@@ -1,0 +1,3 @@
+displayName = MoreNPC's
+author = PuerAeternus
+version = 0.1
